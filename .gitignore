@@ -1,2 +1,7 @@
 *.password
+*.png
+*.jpg
+*.jpeg
+
+
 /cards
