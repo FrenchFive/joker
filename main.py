@@ -44,8 +44,8 @@ async def image_con(paths):
     new_img.save(combined_image_path)
     return combined_image_path
 
-@bot.slash_command(description="Combine random images into one and send it.")
-async def combine(interaction: nextcord.Interaction):
+@bot.slash_command(description="Pick 5 random cards")
+async def pick(interaction: nextcord.Interaction):
     # Defer the response
     await interaction.response.defer()
 
