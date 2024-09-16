@@ -36,6 +36,7 @@ To use the bot, you need to set up a bot in the Discord Developer Portal:
 - Give your application a name (e.g., "JOKER Bot") and create it.
 - In the application dashboard, go to the Bot tab and click Add Bot.
 - Under the TOKEN section, click Copy to copy your bot token. You’ll need this to run the bot.
+- Save the Key in a file called `discord.password` in the same directory as the project.
 
 3. Create a folder named cards in the project directory:
 
