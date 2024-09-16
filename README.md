@@ -1,7 +1,7 @@
 # JOKER
 <sub> Discord Python Card Picker </sub>
 
-# Image Combiner Discord Bot 🤖
+# Card Picker 🤖
 
 This Discord bot, built with Nextcord, allows users to combine random images from a specified directory into a single image. It responds to a slash command within Discord and sends the resulting image as a file attachment.
 
